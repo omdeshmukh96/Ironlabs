@@ -1,0 +1,36 @@
+index,candidate_id,exam_year,air_rank,name,roll_number,optional_subject,category,written_total,interview_marks,final_total,marks_verification,official_url
+0,CSE2019_AIR001,2019,1,Pradeep Singh,6303184,Public Administration,General,914,158,1072,official,https://upsc.gov.in/sites/default/files/CSE_2019_Marks_Recommended.pdf
+1,CSE2019_AIR002,2019,2,Jatin Kishore,834194,Economics,General,878,185,1063,official,https://upsc.gov.in/sites/default/files/CSE_2019_Marks_Recommended.pdf
+2,CSE2019_AIR003,2019,3,Pratibha Verma,6417779,Physics,General,869,193,1062,official,https://upsc.gov.in/sites/default/files/CSE_2019_Marks_Recommended.pdf
+3,CSE2019_AIR004,2019,4,Himanshu Jain,848747,Anthropology,General,851,200,1051,official,https://upsc.gov.in/sites/default/files/CSE_2019_Marks_Recommended.pdf
+4,CSE2019_AIR005,2019,5,Jeydev C S,307126,Law,General,844,206,1050,official,https://upsc.gov.in/sites/default/files/CSE_2019_Marks_Recommended.pdf
+5,CSE2020_AIR001,2020,1,Shubham Kumar,1519294,Anthropology,General,878,176,1054,official,https://upsc.gov.in/sites/default/files/MksRcdCndts-CSM-2020-280921A.pdf
+6,CSE2020_AIR002,2020,2,Jagrati Awasthi,415262,Sociology,General,859,193,1052,official,https://upsc.gov.in/sites/default/files/MksRcdCndts-CSM-2020-280921A.pdf
+7,CSE2020_AIR003,2020,3,Ankita Jain,813490,Philosophy,General,839,212,1051,official,https://upsc.gov.in/sites/default/files/MksRcdCndts-CSM-2020-280921A.pdf
+8,CSE2020_AIR004,2020,4,Yash Jaluka,828612,Economics,General,851,195,1046,official,https://upsc.gov.in/sites/default/files/MksRcdCndts-CSM-2020-280921A.pdf
+9,CSE2020_AIR005,2020,5,Mamta Yadav,829179,Physics,General,855,187,1042,official,https://upsc.gov.in/sites/default/files/MksRcdCndts-CSM-2020-280921A.pdf
+10,CSE2021_AIR001,2021,1,Shruti Sharma,803237,History,General,932,173,1105,official,https://www.upsc.gov.in/sites/default/files/Marks-CSM-2021-300522.pdf
+11,CSE2021_AIR002,2021,2,Ankita Agarwal,611497,PSIR,General,871,179,1050,official,https://www.upsc.gov.in/sites/default/files/Marks-CSM-2021-300522.pdf
+12,CSE2021_AIR003,2021,3,Gamini Singla,3524519,Sociology,General,858,187,1045,official,https://www.upsc.gov.in/sites/default/files/Marks-CSM-2021-300522.pdf
+13,CSE2021_AIR004,2021,4,Aishwarya Verma,5401266,Geography,General,860,179,1039,official,https://www.upsc.gov.in/sites/default/files/Marks-CSM-2021-300522.pdf
+14,CSE2021_AIR005,2021,5,Utkarsh Dwivedi,804881,PSIR,General,871,165,1036,official,https://www.upsc.gov.in/sites/default/files/Marks-CSM-2021-300522.pdf
+15,CSE2022_AIR001,2022,1,Ishita Kishore,5809986,PSIR,General,901,193,1094,official,https://upsc.gov.in/sites/default/files/CSM_2022_MksRcdCandts_Eng_24052023.pdf
+16,CSE2022_AIR002,2022,2,Garima Lohia,1506175,Commerce and Accountancy,General,876,187,1063,official,https://upsc.gov.in/sites/default/files/CSM_2022_MksRcdCandts_Eng_24052023.pdf
+17,CSE2022_AIR003,2022,3,Uma Harathi N,1019872,Anthropology,General,873,187,1060,official,https://upsc.gov.in/sites/default/files/CSM_2022_MksRcdCandts_Eng_24052023.pdf
+18,CSE2022_AIR004,2022,4,Smriti Mishra,858695,Zoology,General,882,173,1055,official,https://upsc.gov.in/sites/default/files/CSM_2022_MksRcdCandts_Eng_24052023.pdf
+19,CSE2022_AIR005,2022,5,Mayur Hazarika,906457,Anthropology,General,861,193,1054,official,https://upsc.gov.in/sites/default/files/CSM_2022_MksRcdCandts_Eng_24052023.pdf
+20,CSE2023_AIR001,2023,1,Aditya Srivastava,2629523,Electrical Engineering,General,899,200,1099,official,https://www.upsc.gov.in/sites/default/files/Marks-CSM-2023-150524-engl.pdf
+21,CSE2023_AIR002,2023,2,Animesh Pradhan,6312512,Sociology,General,892,175,1067,official,https://www.upsc.gov.in/sites/default/files/Marks-CSM-2023-150524-engl.pdf
+22,CSE2023_AIR003,2023,3,Donuru Ananya Reddy,1013595,Anthropology,EWS,875,190,1065,official,https://www.upsc.gov.in/sites/default/files/Marks-CSM-2023-150524-engl.pdf
+23,CSE2023_AIR004,2023,4,P.K. Sidharth Ramkumar,1903299,Anthropology,General,874,185,1059,official,https://www.upsc.gov.in/sites/default/files/Marks-CSM-2023-150524-engl.pdf
+24,CSE2023_AIR005,2023,5,Ruhani,6312407,Economics,General,856,193,1049,official,https://www.upsc.gov.in/sites/default/files/Marks-CSM-2023-150524-engl.pdf
+25,CSE2024_AIR001,2024,1,Shakti Dubey,240782,PSIR,General,843,200,1043,official,https://upsc.gov.in/sites/default/files/MksRcdCndt-CSM-2024-Engl-250425.pdf
+26,CSE2024_AIR002,2024,2,Harshita Goyal,101571,PSIR,General,851,187,1038,official,https://upsc.gov.in/sites/default/files/MksRcdCndt-CSM-2024-Engl-250425.pdf
+27,CSE2024_AIR003,2024,3,Archit Parag Dongre,867282,Philosophy,General,848,190,1038,official,https://upsc.gov.in/sites/default/files/MksRcdCndt-CSM-2024-Engl-250425.pdf
+28,CSE2024_AIR004,2024,4,Shah Margi Chirag,108110,Sociology,General,825,210,1035,official,https://upsc.gov.in/sites/default/files/MksRcdCndt-CSM-2024-Engl-250425.pdf
+29,CSE2024_AIR005,2024,5,Aakash Garg,833621,Sociology,General,831,201,1032,official,https://upsc.gov.in/sites/default/files/MksRcdCndt-CSM-2024-Engl-250425.pdf
+30,CSE2025_AIR001,2025,1,Anuj Agnihotri,1131589,Medical Science,General,867,204,1071,official,https://www.upsc.gov.in/examinations/marks-recommended-candidates-archives
+31,CSE2025_AIR002,2025,2,Rajeshwari Suve M,4000040,Sociology,OBC,865,202,1067,official,https://www.upsc.gov.in/examinations/marks-recommended-candidates-archives
+32,CSE2025_AIR003,2025,3,Akansh Dhull,3512521,Commerce and Accountancy,General,864,193,1057,official,https://www.upsc.gov.in/examinations/marks-recommended-candidates-archives
+33,CSE2025_AIR004,2025,4,Raghav Jhunjhunwala,834732,Economics,OBC,847,195,1042,official,https://www.upsc.gov.in/examinations/marks-recommended-candidates-archives
+34,CSE2025_AIR005,2025,5,Ishan Bhatnagar,409847,Sociology,General,823,215,1038,official,https://www.upsc.gov.in/examinations/marks-recommended-candidates-archives
